@@ -5,7 +5,7 @@ Hi! I'm Carter and my main interest is machine learning for good. But more speci
 - Contibutions to computing tools I believe make computers easier and more reliable to use
 - Self hosting tooling and other coding adventures
 
-If you have questions connect with me on [LinkedIN](https://www.linkedin.com/in/carter-james-andrew) or through hello@cardi.dev
+If you have questions connect with me on [LinkedIn](https://www.linkedin.com/in/carter-james-andrew) or through hello@cardi.dev
 
 # Projects
 
@@ -27,13 +27,17 @@ I have contributed and maintain a number of packages for NixOS, some on the nixp
 - [Djin](https://github.com/carterjandrew/djin) my personal NixOS config with a custom built KDE Plamsa
 ### [KDE Plasma](https://kde.org/plasma-desktop/)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cda878fd-a3cf-4ea4-81aa-245770a6000f" />
+
 - [Azrah](https://github.com/carterjandrew/azrah-theme) my custom theme for KDE plasma, built on Breeze
+
 ## Curveballs
 
 <img width="1270" height="821" alt="image" src="https://github.com/user-attachments/assets/d8acbe78-ed14-4f83-86d2-d4d5b449c176" />
+
 - [Ramsay Reader](https://github.com/carterjandrew/ramsay-reader) 
   A webapp that would let you read out webscraped recipes with the voice and personality of Gordon Ramsay
 <img width="1480" height="822" alt="image" src="https://github.com/user-attachments/assets/8120fb7f-8ea9-4966-9967-35fe69feea18" />
+
 - [Agent Based Wave Function Collapse](https://github.com/carterjandrew/bio-final)
   A small experiment to see if Wave Function collapse could be done faster by using biologically inspired agents
 - [Elephant](https://github.com/carterjandrew/elephant)
