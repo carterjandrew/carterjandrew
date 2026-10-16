@@ -11,28 +11,6 @@ If you have questions connect with me on [LinkedIN](https://www.linkedin.com/in/
 
 Here is a small list of my favorite projects I've contributed to:
 
-<div style="display: none;">
-Hi! If you're reading this, this is all planned stuff I would love to add but have not yet. Enjoy...
-## Bioacoustics
-### [OpenSoundScape](https://github.com/kitzeslab/opensoundscape)
-OpenSoundscape is a python library for bioacousic analysis. In their own words:
-
-> OpenSoundscape includes utilities which can be strung together to create data analysis pipelines, including functions to:
-> 
-> load and manipulate audio files, create and manipulate spectrograms, train deep learning models to recognize sounds, run pre-trained CNNs to detect vocalizations, tune pre-trained CNNs to custom classification tasks, detect periodic vocalizations with RIBBIT, load and manipulate Raven annotations, and estimate the location of sound sources from synchronized recordings
-
-It serves as foundational building blocks for working with bioacoustic data. 
-## Open information access
-### [Kiwix](https://kiwix.org/en/)
-
-KiwiX is, in their own words:
-
-> Kiwix is a nonprofit organisation making free knowledge accessible where the Internet is not. We create and support open technologies that bring the world's knowledge Offline via our own open-source software dedicated to providing offline access to free educational content, and more…
-
-I believe giving people real ownership of publicly licensed information like Wikipedia is one of the most inspiring pieces of philanthropic work. 
-
-My contributions to the platform involve several patches and fixes to their android and linux applications.
-</div>
 ## Operating Systems and Development
 ### [Secretspec](https://secretspec.dev/)
 
