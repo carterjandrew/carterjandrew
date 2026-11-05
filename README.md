@@ -49,6 +49,7 @@ I have contributed and maintain a number of packages for NixOS, some on the nixp
 - [Thrasher Video Comments Linguistic Analysis](https://github.com/carterjandrew/thrasher-comment-linguistic-analysis)
   A analysis of the language and slang used commonly in comments left on Thrasher videos
 <img width="2560" height="1415" alt="image" src="https://github.com/user-attachments/assets/510bbc7c-5ca8-4fc9-a9e3-2cc6b0320cf6" />
+
 - [RayMarching in OpenGL](https://github.com/carterjandrew/computer_graphics_final_project)
   A glsl based ray marching implementation with some neat demonstrations of the software capabilities
 - [My First PyGame Project](https://github.com/carterjandrew/Horde-on-python)
